@@ -332,7 +332,7 @@
             </plugin>
         </plugins>
 
-        <finalName></finalName>
+        <finalName>ofp</finalName>
     </build>
     <packaging>war</packaging>
 
